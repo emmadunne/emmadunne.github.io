@@ -28,6 +28,7 @@ Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and envi
 
 ![DunneetalProcB2018](/assets/img/graphic_ProcB_2018.jpg){: .center-block :}
 
+<br/>
 
 ### Other articles and reports
 
