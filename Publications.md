@@ -6,13 +6,11 @@ title: Publications
 
 <br/>
 
-![DunneetalPalaeontology2020](/img/graphic_Palaeo_2020.png){: .center-block :}
+![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
 
 <br/>
 
 ### Peer Reviewed Publications
-
-<br/>
 
 **Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)
 
@@ -35,13 +33,10 @@ Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and envi
 
 ### Other articles:
 
-<br/>
-
 **Dunne EM** (2018) Patterns in Palaeontology: How do we measure biodiversity in the past? Palaeontology [online] Vol. 8, NO. 8, 1–9 [link](https://www.palaeontologyonline.com/articles/2018/patterns-in-palaeontology-how-do-we-measure-biodiversity-in-the-past/)
 
 **Dunne EM** (2018) Rainforest collapse in prehistoric times changed the course of evolution. *The Conversation*. [link](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289).
 
-<br/>
 
-![DunneetalProcB2018](/img/graphic_ProcB_2018.jpg){: .center-block :}
+![DunneetalProcB2018](/assets/img/graphic_ProcB_2018.jpg){: .center-block :}
 
