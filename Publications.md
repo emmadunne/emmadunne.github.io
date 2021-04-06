@@ -4,27 +4,44 @@ title: Publications
 
 ---
 
-### Peer Reviewed Papers
+<br/>
 
-**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117
+![DunneetalPalaeontology2020](/img/graphic_Palaeo_2020.png){: .center-block :}
 
-Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform Garjainia prima from the Early Triassic of European Russia. *Royal Society Open Science* 7: 201089
+<br/>
 
-Close RA, Benson RJBJ, Alroy J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, Butler RJ. (2020) The apparent exponential radiation of Phanerzoic land vertebrates is an artefact of spatial sampling biases. *Proceedings of the Royal Society B*. 287: 20200372
+### Peer Reviewed Publications
 
-Close RA, Benson RJB, Alroy J, Behrensmeyer AK, Benito J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, Butler RJ. (2019) Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. *Nature Ecology & Evolution* 3: 590–597
-| Nature News & Views article | The Conversation article |
+<br/>
 
-Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Maidment, SCR, Meade, LE, Raven TJ. (2019) Taxonomy and cranial anatomy of the erythrosuchids archosauriform Garjainia prima from the Early Triassic (Olenekian) of European Russia. *Royal Society Open Science*. 6: 191289
+**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)
 
-Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and environmental drivers of Paleozoic tetrapod dispersal across Pangaea. *Nature Communications* 9: 5216
+Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform Garjainia prima from the Early Triassic of European Russia. *Royal Society Open Science* 7: 201089 [link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201089)
 
-**Dunne EM**, Close RA, Button DJ, Brocklehurst N, Cashmore DD, Lloyd GT, Butler RJ. (2018) Diversity change during the rise of tetrapods and the impact of the Carboniferous Rainforest Collapse. *Proceedings of the Royal Society B*. 285: 20172730
-| The Conversation article | Phys.org article | Daily Mail article |
+Close RA, Benson RJBJ, Alroy J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, Butler RJ. (2020) The apparent exponential radiation of Phanerzoic land vertebrates is an artefact of spatial sampling biases. *Proceedings of the Royal Society B*. 287: 20200372 [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0372)
+
+Close RA, Benson RJB, Alroy J, Behrensmeyer AK, Benito J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, Butler RJ. (2019) Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. *Nature Ecology & Evolution* 3: 590–597 [link](https://www.nature.com/articles/s41559-019-0811-8)
+| [Nature News & Views article](https://www.nature.com/articles/s41559-019-0863-9) | [The Conversation article](https://theconversation.com/land-animal-diversity-was-stable-for-millions-of-years-before-humans-came-along-new-study-111855?) |
+
+Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Maidment, SCR, Meade, LE, Raven TJ. (2019) Taxonomy and cranial anatomy of the erythrosuchids archosauriform Garjainia prima from the Early Triassic (Olenekian) of European Russia. *Royal Society Open Science*. 6: 191289 [link](https://royalsocietypublishing.org/doi/10.1098/rsos.191289)
+
+Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and environmental drivers of Paleozoic tetrapod dispersal across Pangaea. *Nature Communications* 9: 5216 [link](https://www.nature.com/articles/s41467-018-07623-x)
+
+**Dunne EM**, Close RA, Button DJ, Brocklehurst N, Cashmore DD, Lloyd GT, Butler RJ. (2018) Diversity change during the rise of tetrapods and the impact of the Carboniferous Rainforest Collapse. *Proceedings of the Royal Society B*. 285: 20172730 [link](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2730)
+| [The Conversation](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289) article | [Phys.org](https://phys.org/news/2018-02-rainforest-collapse-million-years-impacted.html) article | [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-5364737/Climate-change-307-million-years-ago-determined-future.html) article |
 
 
-Other articles:
+<br/>
 
-**Dunne EM** (2018) Patterns in Palaeontology: How do we measure biodiversity in the past? Palaeontology [online] Vol. 8, NO. 8, 1–9 Available [here](https://www.palaeontologyonline.com/articles/2018/patterns-in-palaeontology-how-do-we-measure-biodiversity-in-the-past/)
+### Other articles:
 
-**Dunne EM** (2018) Rainforest collapse in prehistoric times changed the course of evolution. *The Conversation*. Available [here](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289).
+<br/>
+
+**Dunne EM** (2018) Patterns in Palaeontology: How do we measure biodiversity in the past? Palaeontology [online] Vol. 8, NO. 8, 1–9 [link](https://www.palaeontologyonline.com/articles/2018/patterns-in-palaeontology-how-do-we-measure-biodiversity-in-the-past/)
+
+**Dunne EM** (2018) Rainforest collapse in prehistoric times changed the course of evolution. *The Conversation*. [link](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289).
+
+<br/>
+
+![DunneetalProcB2018](/img/graphic_ProcB_2018.jpg){: .center-block :}
+
