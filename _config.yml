@@ -39,9 +39,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "dunne.emma.m@gmail.com"
-  github: emmadunne
   twitter: emmadnn
-  google-scholar: https://scholar.google.co.uk/citations?user=-_S3H7cAAAAJ&hl=en
+  github: emmadunne
+  google-scholar: -_S3H7cAAAAJ
 #  instagram: deanat78
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
