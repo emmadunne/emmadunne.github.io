@@ -14,7 +14,7 @@ author: Emma Dunne
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Publications: "aboutme"
+  Publications: "Publications"
   Research:
     - Fossil Sampling: "FossilSampling"
     - Pal(a)eoscientometrics: "https://paleoscientometrics.github.io/"
@@ -38,10 +38,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "dunne.emma.m@gmail.com"
   github: emmadunne
   twitter: emmadnn
-  google-scholar: -_S3H7cAAAAJ&hl
+  google-scholar: https://scholar.google.co.uk/citations?user=-_S3H7cAAAAJ&hl=en
 #  instagram: deanat78
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
