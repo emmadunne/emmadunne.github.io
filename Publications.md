@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.jpg){: .center-block :}
+![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
 
 
 <br/>
