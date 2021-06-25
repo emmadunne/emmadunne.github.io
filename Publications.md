@@ -20,7 +20,8 @@ Raja NB, & **Dunne EM** (2021) Publication pressure threatens the integrity of p
 
 ### Peer-reviewed publications
 
-**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)]
+**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)] Explainer: 
+[The Conversation](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)
 
 Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform Garjainia prima from the Early Triassic of European Russia. *Royal Society Open Science* 7: 201089 [[link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201089)]
 
@@ -41,6 +42,9 @@ Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and envi
 <br/>
 
 ### Other articles and reports
+
+
+**Dunne EM** & Allen BJ (2021) Prehistoric creatures flocked to different latitudes to survive climate change – the same is taking place today. *The Conversation*. [[link](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)]
 
 Raja NB & **Dunne EM** (2021) Minority language speakers in palaeontology. *OSF Preprints* [[link](https://osf.io/nzjre)]
 
