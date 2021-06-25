@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
+![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020_2.png){: .center-block :}
 
 
 <br/>
@@ -13,7 +13,7 @@ title: Publications
 
 Raja NB, **Dunne EM**, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distortour understanding of deep-time biodiversity. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2472/)]. Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html)
 
-Raja NB, & **Dunne EM** (2021) Publication pressure threatens the integrity ofpalaeontological research. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2414/)]
+Raja NB, & **Dunne EM** (2021) Publication pressure threatens the integrity of palaeontological research. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2414/)]
 
 
 <br/>
