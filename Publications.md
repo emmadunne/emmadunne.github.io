@@ -11,6 +11,9 @@ title: Publications
 
 ### Preprints
 
+S Henderson, **EM Dunne**, S Giles (2021) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2613/)].
+
+
 Raja NB, **Dunne EM**, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distortour understanding of deep-time biodiversity. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2472/)]. Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html)
 
 Raja NB, & **Dunne EM** (2021) Publication pressure threatens the integrity of palaeontological research. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2414/)]
@@ -44,13 +47,15 @@ Brocklehurst N, **Dunne EM**, Cashmore DD, Fröbisch J. (2018) Physical and envi
 ### Other articles and reports
 
 
+Greene SE, Antell GS, Atterby J, Bhatia, **Dunne EM**, Giles S, Groh SS, Hanson EM, Hilton J, Knight H, Kraftl P, Morgan E, Rhodes I, Rockey FGT, Singh S, Stevenson CT, Sun S, Warren BA, Wheeley JR, Yamoah KA (2021) Safety and Belonging in the Field: A Checklist for Educators. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2607/)]
+
 **Dunne EM** & Allen BJ (2021) Prehistoric creatures flocked to different latitudes to survive climate change – the same is taking place today. *The Conversation*. [[link](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)]
 
-Raja NB & **Dunne EM** (2021) Minority language speakers in palaeontology. *OSF Preprints* [[link](https://osf.io/nzjre)]
+Raja NB & **Dunne EM** (2021) Minority language speakers in palaeontology. *OSF* [[link](https://osf.io/nzjre)]
 
 Warnock RCM, **Dunne EM**, Giles S, Saupe EE, Soul LC, Lloyd GT. (2020) Special Report: Are we reaching gender parity among Palaeontology authors? *Palaeontological Association Newsletter* 103 [[link](https://www.palass.org/publications/newsletter/spotlight-diversity/special-report-are-we-reaching-gender-parity-among-palaeontology-authors)]
 
-Greene SE, Ashley KE, **Dunne EM**, Edgar KM, Giles S, & Hanson EM (2020) Toilet stops in the field: An educational primer and recommended best practices for field-based teaching. *OSF Preprints* [[link](https://osf.io/gnhj2/)]
+Greene SE, Ashley KE, **Dunne EM**, Edgar KM, Giles S, & Hanson EM (2020) Toilet stops in the field: An educational primer and recommended best practices for field-based teaching. *OSF* [[link](https://osf.io/gnhj2/)]
 
 **Dunne EM** (2018) Patterns in Palaeontology: How do we measure biodiversity in the past? *Palaeontology [online]* 8, 1–9 [[link](https://www.palaeontologyonline.com/articles/2018/patterns-in-palaeontology-how-do-we-measure-biodiversity-in-the-past/)]
 
