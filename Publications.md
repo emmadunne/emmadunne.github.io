@@ -13,10 +13,6 @@ title: Publications
 
 S Henderson, **EM Dunne**, S Giles (2021) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2613/)].
 
-
-Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distortour understanding of deep-time biodiversity. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2472/)]. (\* joint lead authors)
-Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html)
-
 Raja NB & **Dunne EM** (2021) Publication pressure threatens the integrity of palaeontological research. *EarthArXiv* [[link](https://eartharxiv.org/repository/view/2414/)]
 
 
@@ -24,7 +20,12 @@ Raja NB & **Dunne EM** (2021) Publication pressure threatens the integrity of pa
 
 ### Peer-reviewed publications
 
-**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2020) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)] Explainer: 
+Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distortour understanding of deep-time biodiversity. *Nature Ecology & Evolution*
+Also openly available as a [preprint on *EarthArXiv*](https://eartharxiv.org/repository/view/2472/)].
+[[link](https://www.nature.com/articles/s41559-021-01608-8)]. (\* joint lead authors)
+Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html)
+
+**Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2021) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)] Explainer: 
 [The Conversation](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)
 
 Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform Garjainia prima from the Early Triassic of European Russia. *Royal Society Open Science* 7: 201089 [[link](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201089)]
