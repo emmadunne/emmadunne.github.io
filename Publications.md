@@ -20,9 +20,7 @@ Raja NB & **Dunne EM** (2021) Publication pressure threatens the integrity of pa
 
 ### Peer-reviewed publications
 
-Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distortour understanding of deep-time biodiversity. *Nature Ecology & Evolution*
-Also openly available as a [preprint on *EarthArXiv*](https://eartharxiv.org/repository/view/2472/)].
-[[link](https://www.nature.com/articles/s41559-021-01608-8)]. (\* joint lead authors)
+Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distort our understanding of deep-time biodiversity. *Nature Ecology & Evolution*. [[link](https://www.nature.com/articles/s41559-021-01608-8)]. [*EarthArXiv* preprint](https://eartharxiv.org/repository/view/2472/)]. (\* joint lead authors)
 Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html)
 
 **Dunne EM**, Farnsworth A, Greene SE, Lunt D, Butler RJ. (2021) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. *Palaeontology* 64: 101–117 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514)] Explainer: 
