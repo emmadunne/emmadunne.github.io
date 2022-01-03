@@ -4,7 +4,7 @@ title: Publications
 
 ---
 
-![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
+![RajaDunneetalNatEcolEvol2021](/assets/img/graphic_NEE_2021.png){: .center-block :}
 
 
 <br/>
@@ -40,7 +40,8 @@ Brocklehurst N, **Dunne EM**, Cashmore DD, & Fröbisch J. (2018) Physical and en
 **Dunne EM**, Close RA, Button DJ, Brocklehurst N, Cashmore DD, Lloyd GT, & Butler RJ. (2018) Diversity change during the rise of tetrapods and the impact of the 'Carboniferous Rainforest Collapse'. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2730) 285: 20172730. Explainer: [The Conversation](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289). Media coverage (selected): [Phys.org](https://phys.org/news/2018-02-rainforest-collapse-million-years-impacted.html), [Mail online](https://www.dailymail.co.uk/sciencetech/article-5364737/Climate-change-307-million-years-ago-determined-future.html), [Focus](https://www.focus.it/ambiente/natura/foresta-pluviale-evoluzione-di-rettili-e-mammiferi) (in Italian), [Seeker](https://www.seeker.com/earth-conservation/prehistoric-rainforest-collapse-dramatically-changed-the-course-of-evolution). Also featured in [PBD Eons: When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI)
 
 
-![DunneetalProcB2018](/assets/img/graphic_ProcB_2018.jpg){: .center-block :}
+![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
+
 
 <br/>
 
@@ -60,4 +61,7 @@ Greene SE, Ashley KE, **Dunne EM**, Edgar KM, Giles S, & Hanson EM (2020) Toilet
 **Dunne EM** (2018) Patterns in Palaeontology: How do we measure biodiversity in the past? [Palaeontology [online]](https://www.palaeontologyonline.com/articles/2018/patterns-in-palaeontology-how-do-we-measure-biodiversity-in-the-past/) 8, 1–9 
 
 **Dunne EM** (2018) Rainforest collapse in prehistoric times changed the course of evolution. [The Conversation](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289)
+
+
+![DunneetalProcB2018](/assets/img/graphic_ProcB_2018.jpg){: .center-block :}
 
