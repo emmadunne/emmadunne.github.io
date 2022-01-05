@@ -13,7 +13,7 @@ title: Publications
 
 S Henderson, **EM Dunne**, & S Giles. The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. [EarthArXiv](https://eartharxiv.org/repository/view/2613/).
 
-Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [EarthArXiv](https://eartharxiv.org/repository/view/2414/)
+Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [EarthArXiv](https://eartharxiv.org/repository/view/2414/).
 
 
 <br/>
