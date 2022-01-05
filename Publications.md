@@ -21,7 +21,7 @@ Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeont
 ### Peer-reviewed publications
 
 Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-021-01608-8). Open access preprint via [EarthArXiv](https://eartharxiv.org/repository/view/2472/)]. (\* joint lead authors).
-Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html)
+Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html), [The Verge](https://www.theverge.com/2022/1/4/22865758/decolonizing-earth-sciences-paleontology-fossil-record).
 
 **Dunne EM**, Farnsworth A, Greene SE, Lunt D, & Butler RJ. (2021) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. [*Palaeontology*](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514). 64: 101–117. Explainer: 
 [The Conversation](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)
