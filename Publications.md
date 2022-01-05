@@ -20,20 +20,31 @@ Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeont
 
 ### Peer-reviewed publications
 
+
+**2021**
+
 Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-021-01608-8). Open access preprint via [EarthArXiv](https://eartharxiv.org/repository/view/2472/)]. (\* joint lead authors).
 Media coverage: [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html), [The Verge](https://www.theverge.com/2022/1/4/22865758/decolonizing-earth-sciences-paleontology-fossil-record).
 
 **Dunne EM**, Farnsworth A, Greene SE, Lunt D, & Butler RJ. (2021) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. [*Palaeontology*](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514). 64: 101–117. Explainer: 
 [The Conversation](https://theconversation.com/prehistoric-creatures-flocked-to-different-latitudes-to-survive-climate-change-the-same-is-taking-place-today-163309)
 
-Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, & Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform Garjainia prima from the Early Triassic of European Russia. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201089) 7: 201089
+
+**2020**
+
+Maidment SCR, Sennikov AG, Ezcurra MD, **Dunne EM**, Gower DJ, Hendrick B, Meade LE, Paschchenko DI, Raven TJ, & Butler RJ. (2020) The postcranial skeleton of the erythrosuchid archosauriform *Garjainia prima* from the Early Triassic of European Russia. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201089) 7: 201089
 
 Close RA, Benson RJBJ, Alroy J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, & Butler RJ. (2020) The apparent exponential radiation of Phanerozoic land vertebrates is an artefact of spatial sampling biases. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2020.0372) 287: 20200372
+
+**2019**
 
 Close RA, Benson RJB, Alroy J, Behrensmeyer AK, Benito J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, & Butler RJ. (2019) Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-019-0811-8) 3: 590–597. Explainers: 
 [Nature News & Views](https://www.nature.com/articles/s41559-019-0863-9), [The Conversation](https://theconversation.com/land-animal-diversity-was-stable-for-millions-of-years-before-humans-came-along-new-study-111855?)
 
-Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Maidment, SCR, Meade, LE, & Raven TJ. (2019) Taxonomy and cranial anatomy of the erythrosuchids archosauriform Garjainia prima from the Early Triassic (Olenekian) of European Russia. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.191289) 6: 191289 
+Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Maidment, SCR, Meade, LE, & Raven TJ. (2019) Taxonomy and cranial anatomy of the erythrosuchids archosauriform *Garjainia prima* from the Early Triassic (Olenekian) of European Russia. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.191289) 6: 191289 
+
+
+**2018**
 
 Brocklehurst N, **Dunne EM**, Cashmore DD, & Fröbisch J. (2018) Physical and environmental drivers of Paleozoic tetrapod dispersal across Pangaea. [*Nature Communications*](https://www.nature.com/articles/s41467-018-07623-x) 9: 5216 
 
@@ -54,7 +65,7 @@ Greene SE, Antell GS, Atterby J, Bhatia, **Dunne EM**, Giles S, Groh SS, Hanson 
 
 Raja NB & **Dunne EM** (2021) Minority language speakers in palaeontology. [OSF](https://osf.io/nzjre)
 
-Warnock RCM, **Dunne EM**, Giles S, Saupe EE, Soul LC, & Lloyd GT. (2020) Special Report: Are we reaching gender parity among Palaeontology authors? [Palaeontological Association Newsletter](https://www.palass.org/publications/newsletter/spotlight-diversity/special-report-are-we-reaching-gender-parity-among-palaeontology-authors) 103
+Warnock RCM, **Dunne EM**, Giles S, Saupe EE, Soul LC, & Lloyd GT. (2020) Special Report: Are we reaching gender parity among *Palaeontology* authors? [Palaeontological Association Newsletter](https://www.palass.org/publications/newsletter/spotlight-diversity/special-report-are-we-reaching-gender-parity-among-palaeontology-authors) 103
 
 Greene SE, Ashley KE, **Dunne EM**, Edgar KM, Giles S, & Hanson EM (2020) Toilet stops in the field: An educational primer and recommended best practices for field-based teaching. [OSF](https://osf.io/gnhj2/)
 
