@@ -38,6 +38,10 @@ and of course, you can catch me on the podcast I co-host:
 
 Some fun and interesting articles that features my research or that I was interviewed for:
 
+
+*New Data Expose Colonialism in Paleontology*
+[Discover Magazine](https://www.discovermagazine.com/the-sciences/new-data-expose-colonialism-in-paleontology)
+
 *This Elephant-Like Giant Roamed South America for 2 Million Years*
 [Gizmodo](https://gizmodo.com/this-elephant-like-giant-roamed-south-america-for-2-mil-1848410414)
 
