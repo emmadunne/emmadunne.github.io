@@ -38,6 +38,8 @@ and of course, you can catch me on the podcast I co-host:
 
 Some fun and interesting articles that features my research or that I was interviewed for:
 
+*Why Smuggled Fossils Are Hurting Paleontology*
+[Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-smuggled-fossils-are-hurting-paleontology-180979480/)
 
 *New Data Expose Colonialism in Paleontology*
 [Discover Magazine](https://www.discovermagazine.com/the-sciences/new-data-expose-colonialism-in-paleontology)
