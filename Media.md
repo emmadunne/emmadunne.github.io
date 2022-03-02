@@ -38,6 +38,9 @@ and of course, you can catch me on the podcast I co-host:
 
 Some fun and interesting articles that features my research or that I was interviewed for:
 
+*Paleontology ‘a hotbed of unethical practices rooted in colonialism’, say scientists*
+[The Guardian](https://www.theguardian.com/uk-news/2022/mar/02/paleontology-a-hotbed-of-unethical-practices-rooted-in-colonialism-say-scientists)
+
 *Why Smuggled Fossils Are Hurting Paleontology*
 [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-smuggled-fossils-are-hurting-paleontology-180979480/)
 

@@ -21,6 +21,12 @@ Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeont
 ### Peer-reviewed publications
 
 
+**2022**
+
+Cisneros JC, Raja NB, Ghilardi AM, **Dunne EM**, Pinheiro FL, Regalado Fernández OR, Sales MAF, Rodríguez-de la Rosa RA, Miranda-Martínez AY, González-Mora S, Bantim RAM, de Lima FJ and Pardo JD. (2022) Digging deeper into colonial palaeontological practices in modern day Brazil and Mexico. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.210898) 9: 210898
+Media coverage: [Science](https://www.science.org/content/article/institutions-global-north-hoard-fossils-brazil-study-says), [The Guardian](https://www.theguardian.com/uk-news/2022/mar/02/paleontology-a-hotbed-of-unethical-practices-rooted-in-colonialism-say-scientists), [Folha de S.Paulo (Portuguese)](https://www1.folha.uol.com.br/ciencia/2022/03/paleopirataria-faz-estrangeiros-dominarem-trabalhos-sobre-fosseis-brasileiros-diz-artigo.shtml)
+
+
 **2021**
 
 Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-021-01608-8). (\* joint lead authors). Open access preprint via [EarthArXiv](https://eartharxiv.org/repository/view/2472/).
@@ -39,7 +45,8 @@ Close RA, Benson RJBJ, Alroy J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD,
 
 **2019**
 
-Close RA, Benson RJB, Alroy J, Behrensmeyer AK, Benito J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, & Butler RJ. (2019) Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-019-0811-8) 3: 590–597. Explainers: 
+Close RA, Benson RJB, Alroy J, Behrensmeyer AK, Benito J, Carrano MT, Cleary TJ, **Dunne EM**, Mannion PD, Uhen MD, & Butler RJ. (2019) Diversity dynamics of Phanerozoic terrestrial tetrapods at the local-community scale. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-019-0811-8) 3: 590–597. 
+Explainers: 
 [Nature News & Views](https://www.nature.com/articles/s41559-019-0863-9), [The Conversation](https://theconversation.com/land-animal-diversity-was-stable-for-millions-of-years-before-humans-came-along-new-study-111855?)
 
 Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Maidment, SCR, Meade, LE, & Raven TJ. (2019) Taxonomy and cranial anatomy of the erythrosuchids archosauriform *Garjainia prima* from the Early Triassic (Olenekian) of European Russia. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.191289) 6: 191289 
@@ -49,7 +56,9 @@ Butler, RJ, Sennikov, AG, **Dunne EM**, Ezcurra, MD, Gower, DJ, Hendrick, B, Mai
 
 Brocklehurst N, **Dunne EM**, Cashmore DD, & Fröbisch J. (2018) Physical and environmental drivers of Paleozoic tetrapod dispersal across Pangaea. [*Nature Communications*](https://www.nature.com/articles/s41467-018-07623-x) 9: 5216 
 
-**Dunne EM**, Close RA, Button DJ, Brocklehurst N, Cashmore DD, Lloyd GT, & Butler RJ. (2018) Diversity change during the rise of tetrapods and the impact of the 'Carboniferous Rainforest Collapse'. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2730) 285: 20172730. Explainer: [The Conversation](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289). Media coverage (selected): [Phys.org](https://phys.org/news/2018-02-rainforest-collapse-million-years-impacted.html), [Mail online](https://www.dailymail.co.uk/sciencetech/article-5364737/Climate-change-307-million-years-ago-determined-future.html), [Focus](https://www.focus.it/ambiente/natura/foresta-pluviale-evoluzione-di-rettili-e-mammiferi) (in Italian), [Seeker](https://www.seeker.com/earth-conservation/prehistoric-rainforest-collapse-dramatically-changed-the-course-of-evolution). Also featured in [PBS Eons: When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI)
+**Dunne EM**, Close RA, Button DJ, Brocklehurst N, Cashmore DD, Lloyd GT, & Butler RJ. (2018) Diversity change during the rise of tetrapods and the impact of the 'Carboniferous Rainforest Collapse'. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2017.2730) 285: 20172730. 
+Explainer: [The Conversation](https://theconversation.com/rainforest-collapse-in-prehistoric-times-changed-the-course-of-evolution-91289). 
+Media coverage (selected): [Phys.org](https://phys.org/news/2018-02-rainforest-collapse-million-years-impacted.html), [Mail online](https://www.dailymail.co.uk/sciencetech/article-5364737/Climate-change-307-million-years-ago-determined-future.html), [Focus](https://www.focus.it/ambiente/natura/foresta-pluviale-evoluzione-di-rettili-e-mammiferi) (in Italian), [Seeker](https://www.seeker.com/earth-conservation/prehistoric-rainforest-collapse-dramatically-changed-the-course-of-evolution). Also featured in [PBS Eons: When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI)
 
 
 ![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
