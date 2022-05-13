@@ -11,6 +11,10 @@ title: Publications
 
 ### Preprints
 
+**EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.08.476633v1)
+
+S Henderson, **EM Dunne**, & S Giles. Sampling biases obscure the early diversification of the largest living vertebrate group. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.05.09.491144v1).
+
 S Henderson, **EM Dunne**, & S Giles. The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. [EarthArXiv](https://eartharxiv.org/repository/view/2613/).
 
 Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [EarthArXiv](https://eartharxiv.org/repository/view/2414/).
