@@ -36,7 +36,14 @@ and of course, you can catch me on the podcast I co-host:
 
 ### Articles
 
-Some fun and interesting articles that features my research or that I was interviewed for:
+Selected articles that feature my research or thoughts:
+
+
+*Violent conflict in Myanmar linked to boom in fossil amber research, study claims*
+[Science](https://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims)
+
+*Research on amber from a war-torn part of Myanmar is surging*
+[The Economist](https://www.economist.com/graphic-detail/2022/09/22/research-on-amber-from-a-war-torn-part-of-myanmar-is-surging?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc)
 
 *Paleontology ‘a hotbed of unethical practices rooted in colonialism’, say scientists*
 [The Guardian](https://www.theguardian.com/uk-news/2022/mar/02/paleontology-a-hotbed-of-unethical-practices-rooted-in-colonialism-say-scientists)
