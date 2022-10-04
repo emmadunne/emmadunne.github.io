@@ -26,9 +26,10 @@ Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeont
 Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. In press at *Santander Art and Culture Law Review* (published by the UNESCO Chair on Cultural Property Law)
 
 
-S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early diversification of the largest living vertebrate group. Accepted at *Proceedings of the Royal Society B* ([Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491144v1))
+  S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early diversification of the largest living vertebrate group. In press at *Proceedings of the Royal Society B* ([Preprint](https://www.biorxiv.org/content/10.1101/2022.05.09.491144v1))
 
-S Henderson, **EM Dunne**, & S Giles (2022) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. In press at *Biological Reviews* ([Preprint](https://eartharxiv.org/repository/view/2613/))
+
+S Henderson, **EM Dunne**, & S Giles (2022) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. [*Biological Reviews*](https://onlinelibrary.wiley.com/doi/10.1111/brv.12907)
 
 
  **Dunne EM**\*, Raja NB\*, Stewens PP, Zin Maung Maung Thein, & Khin Zaw (2022) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Communications Biology*](https://www.nature.com/articles/s42003-022-03847-2). (\* joint lead authors) 
