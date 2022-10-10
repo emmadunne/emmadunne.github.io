@@ -13,8 +13,6 @@ title: Publications
 
 **EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.08.476633v1)
 
-Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [EarthArXiv](https://eartharxiv.org/repository/view/2414/)
-
 
 <br/>
 
@@ -24,6 +22,9 @@ Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeont
 **2022**
 
 Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. In press at *Santander Art and Culture Law Review* (published by the UNESCO Chair on Cultural Property Law).
+
+Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [Geological Curator](https://eartharxiv.org/repository/view/2414/)
+
 
 Foffa D, **Dunne EM**, Nesbitt SJ, Butler RJ, Fraser NC, Brusatte SL, Farnsworth A, Lunt DJ, Valdes PJ, Walsh S & Barrett PM (2022) Scleromochlus and the early evolution of
 Pterosauromorpha. [*Nature*](https://doi.org/10.1038/s41586-022-05284-x).
