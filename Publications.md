@@ -35,7 +35,7 @@ S Henderson, **EM Dunne**, & S Giles (2022) The early diversification of ray-fin
 
 
  **Dunne EM**\*, Raja NB\*, Stewens PP, Zin Maung Maung Thein, & Khin Zaw (2022) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Communications Biology*](https://www.nature.com/articles/s42003-022-03847-2) (\* joint lead authors). 
- Selected media coverage: [Science](hhttps://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims), [The Economist](https://www.economist.com/graphic-detail/2022/09/22/research-on-amber-from-a-war-torn-part-of-myanmar-is-surging?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc) 
+ Selected media coverage: [Science](hhttps://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims), [The Economist](https://www.economist.com/graphic-detail/2022/09/22/research-on-amber-from-a-war-torn-part-of-myanmar-is-surging?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc), [Science Alert](https://www.sciencealert.com/the-wondrous-beauty-of-myanmar-amber-hides-a-very-dark-secret)
 
 
 Cisneros JC, Raja NB, Ghilardi AM, **Dunne EM**, Pinheiro FL, Regalado Fernández OR, Sales MAF, Rodríguez-de la Rosa RA, Miranda-Martínez AY, González-Mora S, Bantim RAM, de Lima FJ and Pardo JD. (2022) Digging deeper into colonial palaeontological practices in modern day Brazil and Mexico. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.210898) 9: 210898.

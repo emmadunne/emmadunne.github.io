@@ -10,12 +10,13 @@ I currently teach courses on both the <a href="https://palaeobiology.nat.fau.de/
 
 #### Masters (in English)
 
-- Vertebrate Paleobiology (lead)
-- Paleoenvironmental Proxies (contributor)
+- Vertebrate paleobiology (lead)
+- Paleoenvironmental proxies (contributor)
 - Biostratigraphy (contributor)
-- Science Communication (contributor)
+- Macroevolution (contributor)
+- Science communication (contributor)
 
 
-#### Bachelors (in German)
+#### Bachelors (in German & English)
 
 - Paläobiodiversität (Semester 3, lead)
