@@ -19,11 +19,11 @@ title: Publications
 ### Peer-reviewed publications
 
 
-**2022**
-
-
 Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. In press at *Santander Art and Culture Law Review* (published by the UNESCO Chair on Cultural Property Law).
 
+
+
+**2022**
 
 Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [Geological Curator](https://eartharxiv.org/repository/view/2414/)
 
@@ -33,13 +33,14 @@ S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early di
 
 Foffa D, **Dunne EM**, Nesbitt SJ, Butler RJ, Fraser NC, Brusatte SL, Farnsworth A, Lunt DJ, Valdes PJ, Walsh S & Barrett PM (2022) Scleromochlus and the early evolution of
 Pterosauromorpha. [*Nature*](https://doi.org/10.1038/s41586-022-05284-x).
+Selected media coverage: [The Guardian](https://www.theguardian.com/science/2022/oct/05/scleromochlus-taylori-reptile-unearthed-scotland-related-pterosaurs), [National Geographic](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/230-million-year-old-mystery-fossil-sheds-light-on-origins-of-pterosaurs), [New York Times](https://www.nytimes.com/2022/10/05/science/pterosaurs-reptiles-wings.html)
 
 
 S Henderson, **EM Dunne**, & S Giles (2022) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. [*Biological Reviews*](https://onlinelibrary.wiley.com/doi/10.1111/brv.12907).
 
 
  **Dunne EM**\*, Raja NB\*, Stewens PP, Zin Maung Maung Thein, & Khin Zaw (2022) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Communications Biology*](https://www.nature.com/articles/s42003-022-03847-2) (\* joint lead authors). 
- Selected media coverage: [Science](hhttps://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims), [The Economist](https://www.economist.com/graphic-detail/2022/09/22/research-on-amber-from-a-war-torn-part-of-myanmar-is-surging?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc), [Science Alert](https://www.sciencealert.com/the-wondrous-beauty-of-myanmar-amber-hides-a-very-dark-secret)
+Selected media coverage: [Science](hhttps://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims), [The Economist](https://www.economist.com/graphic-detail/2022/09/22/research-on-amber-from-a-war-torn-part-of-myanmar-is-surging?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content&%3Ffsrc%3Dscn%2F=tw%2Fdc), [Science Alert](https://www.sciencealert.com/the-wondrous-beauty-of-myanmar-amber-hides-a-very-dark-secret), [phys.org](https://phys.org/news/2022-10-analysis-myanmar-amber-fossils-explicit.html)
 
 
 Cisneros JC, Raja NB, Ghilardi AM, **Dunne EM**, Pinheiro FL, Regalado Fernández OR, Sales MAF, Rodríguez-de la Rosa RA, Miranda-Martínez AY, González-Mora S, Bantim RAM, de Lima FJ and Pardo JD. (2022) Digging deeper into colonial palaeontological practices in modern day Brazil and Mexico. [*Royal Society Open Science*](https://royalsocietypublishing.org/doi/10.1098/rsos.210898) 9: 210898.
