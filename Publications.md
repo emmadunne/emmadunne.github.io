@@ -25,7 +25,7 @@ Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Col
 
 **2022**
 
-Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [Geological Curator](https://eartharxiv.org/repository/view/2414/)
+Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [Geological Curator](https://eartharxiv.org/repository/view/2414/). Featured in [Nature Index](https://www.nature.com/articles/d41586-022-03745-x)
 
 
 S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early diversification of the largest living vertebrate group. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.0916).
