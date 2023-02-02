@@ -19,13 +19,27 @@ title: Publications
 ### Peer-reviewed publications
 
 
-Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. In press at *Santander Art and Culture Law Review* (published by the UNESCO Chair on Cultural Property Law).
+**2023**
+
+
+Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. In press at[*Paleobiology*]() (\* joint lead authors).
+
+
+**Dunne EM**, Farnsworth A, Benson RJB, Godoy PL, Greene SE, Valdes PJ, Lunt DJ, & Butler RJ, (2023) Climatic controls on the ecological ascendancy of dinosaurs. [*Current Biology*](https://doi.org/10.1016/j.cub.2022.11.064)
 
 
 
 **2022**
 
-Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [Geological Curator](https://eartharxiv.org/repository/view/2414/). Featured in [Nature Index](https://www.nature.com/articles/d41586-022-03745-x)
+
+Raja NB & **Dunne EM** (2022) Fossil Trafficking, Fraud, and Fakery. In: Oosterman, N., Yates, D. (eds) Art [*Crime in Context*](https://doi.org/10.1007/978-3-031-14084-6_5). Studies in Art, Heritage, Law and the Market, vol 6. Springer
+
+
+Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. [*Santander Art and Culture Law Review*](https://www.ejournals.eu/SAACLR/2022/2-2022/art/22616) (published by the UNESCO Chair on Cultural Property Law)
+
+
+Raja NB & **Dunne EM**. Publication pressure threatens the integrity of palaeontological research. [*Geological Curator*](https://eartharxiv.org/repository/view/2414/). 
+Featured in [Nature Index](https://www.nature.com/articles/d41586-022-03745-x)
 
 
 S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early diversification of the largest living vertebrate group. [*Proceedings of the Royal Society B*](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.0916).
@@ -34,9 +48,6 @@ S Henderson, **EM Dunne**, & S Giles (2022) Sampling biases obscure the early di
 Foffa D, **Dunne EM**, Nesbitt SJ, Butler RJ, Fraser NC, Brusatte SL, Farnsworth A, Lunt DJ, Valdes PJ, Walsh S & Barrett PM (2022) Scleromochlus and the early evolution of
 Pterosauromorpha. [*Nature*](https://doi.org/10.1038/s41586-022-05284-x).
 Selected media coverage: [The Guardian](https://www.theguardian.com/science/2022/oct/05/scleromochlus-taylori-reptile-unearthed-scotland-related-pterosaurs), [National Geographic](https://www.nationalgeographic.co.uk/science-and-technology/2022/10/230-million-year-old-mystery-fossil-sheds-light-on-origins-of-pterosaurs), [New York Times](https://www.nytimes.com/2022/10/05/science/pterosaurs-reptiles-wings.html)
-
-
-S Henderson, **EM Dunne**, & S Giles (2022) The early diversification of ray-finned fishes (Actinopterygii): hypotheses, challenges and future prospects. [*Biological Reviews*](https://onlinelibrary.wiley.com/doi/10.1111/brv.12907).
 
 
  **Dunne EM**\*, Raja NB\*, Stewens PP, Zin Maung Maung Thein, & Khin Zaw (2022) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Communications Biology*](https://www.nature.com/articles/s42003-022-03847-2) (\* joint lead authors). 

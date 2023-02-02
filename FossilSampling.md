@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fossil sampling
+title: Fossil record biases
 subtitle: Coming soon
 ---
 
