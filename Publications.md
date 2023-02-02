@@ -32,7 +32,7 @@ Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić 
 **2022**
 
 
-Raja NB & **Dunne EM** (2022) Fossil Trafficking, Fraud, and Fakery. In: Oosterman, N., Yates, D. (eds) Art [*Crime in Context*](https://doi.org/10.1007/978-3-031-14084-6_5). Studies in Art, Heritage, Law and the Market, vol 6. Springer
+Raja NB & **Dunne EM** (2022) Fossil Trafficking, Fraud, and Fakery. In: Oosterman, N., Yates, D. (eds) [*Art Crime in Context*](https://doi.org/10.1007/978-3-031-14084-6_5). Studies in Art, Heritage, Law and the Market, vol 6. Springer
 
 
 Stewens PP, Raja NB, **Dunne EM** (2022) The Return of Fossils Removed Under Colonial Rule. [*Santander Art and Culture Law Review*](https://www.ejournals.eu/SAACLR/2022/2-2022/art/22616) (published by the UNESCO Chair on Cultural Property Law)
