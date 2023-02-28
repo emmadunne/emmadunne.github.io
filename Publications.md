@@ -22,7 +22,7 @@ title: Publications
 **2023**
 
 
-Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. In press at [*Paleobiology*]() (\* joint lead authors).
+Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. [*Paleobiology*](https://doi.org/10.1017/pab.2023.3) (\* joint lead authors). Explainer [video](https://www.youtube.com/watch?v=0jnxVGT3DaM&ab_channel=MirantaKouvari)
 
 
 **Dunne EM**, Farnsworth A, Benson RJB, Godoy PL, Greene SE, Valdes PJ, Lunt DJ, & Butler RJ, (2023) Climatic controls on the ecological ascendancy of dinosaurs. [*Current Biology*](https://doi.org/10.1016/j.cub.2022.11.064)
