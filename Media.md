@@ -38,6 +38,8 @@ and of course, you can catch me on the podcast I co-host:
 
 Selected articles that feature my research or thoughts:
 
+*Paleontology has a ‘parachute science’ problem. Here’s how it plays out in 3 nations*
+[ScienceNews](https://www.sciencenews.org/article/parachute-paleontology-science-colonialism-fossils)
 
 *Violent conflict in Myanmar linked to boom in fossil amber research, study claims*
 [Science](https://www.science.org/content/article/violent-conflict-myanmar-linked-boom-fossil-amber-research-study-claims)
