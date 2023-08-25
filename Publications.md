@@ -21,16 +21,17 @@ Arenas-Castro H, Berdejo-Espinola V, Chowdhury S, Rodríguez-Contreras A, James 
 
 **2023**
 
-**EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-023-02128-3)
+**EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-023-02128-3). Associated plain-language [Research Briefing](https://www.nature.com/articles/s41559-023-02138-1)
 
 
 Edgar KM, Haller L, Cashmore DD, **Dunne EM** & Butler RJ (2023) Stratigraphic and geographic distribution of dinosaur tracks in the UK. [*Journal of the Geological Society*](https://doi.org/10.1144/jgs2023-003) 
 
 
-Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. [*Paleobiology*](https://doi.org/10.1017/pab.2023.3) (\* joint lead authors). Explainer [video](https://www.youtube.com/watch?v=0jnxVGT3DaM&ab_channel=MirantaKouvari)
+Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. [*Paleobiology*](https://doi.org/10.1017/pab.2023.3) (\* joint lead authors). [Explainer video](https://www.youtube.com/watch?v=0jnxVGT3DaM&ab_channel=MirantaKouvari)
 
 
 **Dunne EM**, Farnsworth A, Benson RJB, Godoy PL, Greene SE, Valdes PJ, Lunt DJ, & Butler RJ, (2023) Climatic controls on the ecological ascendancy of dinosaurs. [*Current Biology*](https://doi.org/10.1016/j.cub.2022.11.064)
+Selected media coverage: [The Independent](https://www.independent.co.uk/climate-change/dinosaurs-climate-change-b2246503.html), [Sky News](https://news.sky.com/story/life-finds-a-way-how-climate-change-helped-dinosaur-success-story-12769423)
 
 
 
@@ -67,7 +68,7 @@ Media coverage: [Science](https://www.science.org/content/article/institutions-g
 
 Raja NB\*, **Dunne EM**\*, Matiwane A, Tasnuva MK, Nätscher PS, Ghilardi AM, & Chattopadhyay D. (2021) Colonial history and global economics distort our understanding of deep-time biodiversity. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-021-01608-8) (\* joint lead authors). Open access preprint via [EarthArXiv](https://eartharxiv.org/repository/view/2472/).
 See also: Plain-language [summaries in multiple languages](https://osf.io/bptqf/).
-Selected media coverage: [Nature News](https://www.nature.com/articles/d41586-022-00034-5), [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html), [The Verge](https://www.theverge.com/2022/1/4/22865758/decolonizing-earth-sciences-paleontology-fossil-record), [The Wire](https://science.thewire.in/the-sciences/parachute-science-palaeontology-european-colonialism-indian-scientists/), [BBC Future](https://www.bbc.com/future/article/20220113-why-indias-fossil-wealth-has-remained-hidden), [Discover Magazine](https://www.discovermagazine.com/the-sciences/new-data-expose-colonialism-in-paleontology), [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-smuggled-fossils-are-hurting-paleontology-180979480/).
+Selected media coverage: [Nature News](https://www.nature.com/articles/d41586-022-00034-5), [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html), [Der Tagesspiegel](https://m.tagesspiegel.de/wissen/schwarzmarkt-faelschungen-und-vorwuerfe-fossilienforschung-in-schwierigkeiten/27549240.html), [The Verge](https://www.theverge.com/2022/1/4/22865758/decolonizing-earth-sciences-paleontology-fossil-record), [The Wire](https://science.thewire.in/the-sciences/parachute-science-palaeontology-european-colonialism-indian-scientists/), [BBC Future](https://www.bbc.com/future/article/20220113-why-indias-fossil-wealth-has-remained-hidden), [Discover Magazine](https://www.discovermagazine.com/the-sciences/new-data-expose-colonialism-in-paleontology), [Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/why-smuggled-fossils-are-hurting-paleontology-180979480/), [National Geographic (in German)](https://www.nationalgeographic.de/geschichte-und-kultur/2022/01/palaeontologie-herrscht-in-der-forschung-kolonialzeit-kolonialismus)
 
 
 **Dunne EM**, Farnsworth A, Greene SE, Lunt D, & Butler RJ. (2021) Climatic drivers of latitudinal variation in Late Triassic tetrapod diversity. [*Palaeontology*](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12514). 64: 101–117. Explainer: 
