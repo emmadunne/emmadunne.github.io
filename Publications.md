@@ -11,7 +11,7 @@ title: Publications
 
 ### Preprints
 
-**EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.02.08.476633v1)
+Arenas-Castro H, Berdejo-Espinola V, Chowdhury S, Rodríguez-Contreras A, James A, Raja NB, **Dunne EM**, Bertolino S, Emidio NB, Derez CM, Drobniak SM, Fulton GR, Henao-Diaz LF, Kaur A, Kim CJS, Lagisz M, Medina I, Mikula P, Narayan VP, O'Bryan CJ, Ying Oh RR, Ovsyanikova E, Pérez-Hämmerle KV, Pottier P, Powers JS, Rodriguez-Acevedo AJ, Rozak AH, Sena PHA, Sockhill NJ, Tedesco AM, Tiapa-Blanco F, Tsai JS, Villarreal-Rosas J, Wadgymar SM, Yamamichi M, & Amano T. Academic publishing requires linguistically inclusive policies. [*EcoEvoRxiv*](https://ecoevorxiv.org/repository/view/5475/)
 
 
 <br/>
@@ -20,6 +20,11 @@ title: Publications
 
 
 **2023**
+
+**EM Dunne**, SED Thompson, RJ Butler, J Rosindell, & RA Close. Early tetrapod diversification under neutral theory. [*Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-023-02128-3)
+
+
+Edgar KM, Haller L, Cashmore DD, **Dunne EM** & Butler RJ (2023) Stratigraphic and geographic distribution of dinosaur tracks in the UK. [*Journal of the Geological Society*](https://doi.org/10.1144/jgs2023-003) 
 
 
 Dillon EM\*, **Dunne EM**\*, Womack TM, Kouvari M, Larina E, Claytor JR, Ivkić A, Juhn M, Milla Carmona PS, Robson SV, Saha A, Villafaña JA, & Zill ME (2023) Challenges and directions in analytical paleobiology. [*Paleobiology*](https://doi.org/10.1017/pab.2023.3) (\* joint lead authors). Explainer [video](https://www.youtube.com/watch?v=0jnxVGT3DaM&ab_channel=MirantaKouvari)
