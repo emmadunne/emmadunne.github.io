@@ -22,9 +22,21 @@ Coverage by [Nature News](https://www.nature.com/articles/d41586-023-02529-1)
 ### Peer-reviewed publications
 
 
+**2024**
+
+Schnetz L, **Dunne EM**, Feichtinger I, Butler RJ, Coates MI, Sansom IJ. The rise and diversification of Palaeozoic chondrichthyans is led by holocephalans. *Paleobiology* (in press)
+
+
+Lautenschlager S, Aston RF, Baron JL, Boyd JR, Bridger HWL, Carmona VET, Ducrey T, Eccles O, Gall M, Jones SA, Laker-McHugh H, Lawrenson DJ, Mascarenhas KJ, McSchnutz E, Quinn JD, Robson TE, Stöhr PW, Strahl EJ, Tokeley RR, Weston F, Wallace KJ, Whitehouse T, Bird CM, & **Dunne EM** (2024) Evolution of orbit size and estimated eye size and their implications for visual capabilities in dinosaurs and other archosaurs. *J. Vert. Paleo.* DOI: [10.1080/02724634.2023.2295518](https://doi.org/10.1080/02724634.2023.2295518)
+
+
 **2023**
 
-**Dunne EM**, Thompson SED, Butler RJ, Rosindell J, & Close RA. Early tetrapod diversification under neutral theory. *Nature Ecology & Evolution*. DOI: [10.1038/s41559-023-02128-3](https://www.nature.com/articles/s41559-023-02128-3). Associated plain-language [Research Briefing](https://www.nature.com/articles/s41559-023-02138-1)
+
+Smith JA, Raja NB, Clements T, Dimitrijević D, Dowding EM, **Dunne EM**, Gee BM, Godoy PL, Lombardi EM, Mulvey LPA, Nätscher PS, Reddin CJ, Shirley B, Warnock RCM, & Kocsis AT. (2023) Increasing the equitability of data citation in paleontology: Capacity building for a big data future. *Paleobiology*. DOI: [10.1017/pab.2023.33](https://www.cambridge.org/core/journals/paleobiology/article/increasing-the-equitability-of-data-citation-in-paleontology-capacity-building-for-the-big-data-future/5DE206ED3B51F7064E8FD60CA77E8D73)
+
+
+**Dunne EM**, Thompson SED, Butler RJ, Rosindell J, & Close RA. (2023) Early tetrapod diversification under neutral theory. *Nature Ecology & Evolution*. DOI: [10.1038/s41559-023-02128-3](https://www.nature.com/articles/s41559-023-02128-3). Associated plain-language [Research Briefing](https://www.nature.com/articles/s41559-023-02138-1)
 
 
 Edgar KM, Haller L, Cashmore DD, **Dunne EM** & Butler RJ (2023) Stratigraphic and geographic distribution of dinosaur tracks in the UK. *Journal of the Geological Society*. DOI: [10.1144/jgs2023-003](https://doi.org/10.1144/jgs2023-003) 
