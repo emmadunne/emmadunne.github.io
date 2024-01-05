@@ -6,7 +6,7 @@ title: Media
 
 <br/>
 
-### Podcasts
+## Podcasts
 
 Hear me chat about my research and palaeontology more generally in the following episodes:
 
@@ -33,11 +33,11 @@ and of course, you can catch me on the podcast I co-host:
 
 <br/>
 
-### Articles
+## Articles
 
 Selected articles that feature my research or thoughts:
 
-# Ethics, law, and colonialism in paleontology:
+#### Ethics, law, and colonialism in paleontology:
 
 *Paleontology has a ‘parachute science’ problem. Here’s how it plays out in 3 nations*
 [ScienceNews](https://www.sciencenews.org/article/parachute-paleontology-science-colonialism-fossils)
@@ -62,7 +62,7 @@ Selected articles that feature my research or thoughts:
 
 
 
-# Comments on other studies and general musings:
+####  Comments on other studies and general musings:
 
 *Volcanic Eruptions Helped Dinosaurs Dominate Planet Earth*
 [The New York Times](https://www.nytimes.com/2021/09/27/science/dinosaurs-volcanoes-triassic.html)
@@ -73,8 +73,10 @@ Selected articles that feature my research or thoughts:
 *What Would Really Happen if Thanos Erased Half of All Life on Earth?* [Gizmodo](https://gizmodo.com/what-would-really-happen-if-thanos-erased-half-of-all-l-1834107585)
 
 
+<br/>
 
-### Documentaries
+
+## Documentaries
 
 My research on early tetrapod diversity was featured in a PBS Eons episode: [When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI).
 
