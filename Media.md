@@ -10,21 +10,20 @@ title: Media
 
 Hear me chat about my research and palaeontology more generally in the following episodes:
 
+**Palaeocast**
+[Episode 136: Burmese Amber](https://www.palaeocast.com/burmese-amber-pt2/)
+
 **Tiny Matters**
 [Dinosaur Fossils: Inspiring Jurassic Park and helping us predict Earth's future](https://www.acs.org/content/acs/en/pressroom/tiny-matters/dinosaur-fossils-inspiring-jurassic-park-and-helping-us-predict-earths-future.html)
-
 
 **CBC: Quirks and Quarks**
 [Researchers call for a new awareness of scientific colonialism](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15890600-researchers-call-awareness-scientific-colonialism)
 
-
 **I Know Dino: The Big Dinosaur Podcast**
 [Episode 340](https://iknowdino.com/amygdalodon-episode-340/)
 
-
 **The Backpacker's Guide To Prehistory**
 [S1 E5: The Triassic](https://www.prehistoryguide.co.uk/)
-
 
 
 and of course, you can catch me on the podcast I co-host:
@@ -37,6 +36,8 @@ and of course, you can catch me on the podcast I co-host:
 ### Articles
 
 Selected articles that feature my research or thoughts:
+
+# Ethics, law, and colonialism in paleontology:
 
 *Paleontology has a ‘parachute science’ problem. Here’s how it plays out in 3 nations*
 [ScienceNews](https://www.sciencenews.org/article/parachute-paleontology-science-colonialism-fossils)
@@ -56,11 +57,12 @@ Selected articles that feature my research or thoughts:
 *New Data Expose Colonialism in Paleontology*
 [Discover Magazine](https://www.discovermagazine.com/the-sciences/new-data-expose-colonialism-in-paleontology)
 
-*This Elephant-Like Giant Roamed South America for 2 Million Years*
-[Gizmodo](https://gizmodo.com/this-elephant-like-giant-roamed-south-america-for-2-mil-1848410414)
-
 *Decolonizing the Hunt for Dinosaurs and Other Fossils*
 [New York Times](https://www.nytimes.com/2021/03/22/science/dinosaurs-fossils-colonialism.html)
+
+
+
+# Comments on other studies and general musings:
 
 *Volcanic Eruptions Helped Dinosaurs Dominate Planet Earth*
 [The New York Times](https://www.nytimes.com/2021/09/27/science/dinosaurs-volcanoes-triassic.html)
@@ -72,7 +74,11 @@ Selected articles that feature my research or thoughts:
 
 
 
-### Other
+### Documentaries
 
-My research on early tetrapod diversity was featured in a PBS Eons episode: [When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI)
+My research on early tetrapod diversity was featured in a PBS Eons episode: [When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI).
+
+I was an on-screen expert for Episode 4 (Inferno) of the *Ancient Earth* docuseries, produced by BBC in collaboration with PBS. The series can be viewed on [Nova](https://www.pbs.org/wgbh/nova/series/ancient-earth/episodes/).
+
+Currently, I am a consultant for a docuseries produced by BBC and LoudMinds, which is due to be released in late 2024.
 
