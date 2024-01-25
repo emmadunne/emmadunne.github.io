@@ -15,10 +15,10 @@ author: Emma Dunne
 
 navbar-links:
   Publications: "Publications"
-  Research:
-    - Fossil record biases: "FossilSampling"
-    - Early dinosaur evolution: "EarlyDinosaurs"
-    - Paleoscientometrics: "https://paleoscientometrics.github.io/"
+  Projects: "Projects"
+    # - Fossil record biases: "FossilSampling"
+    # - Early dinosaur evolution: "EarlyDinosaurs"
+    # - Paleoscientometrics: "https://paleoscientometrics.github.io/"
   Teaching: "Teaching"
   Media: "Media"
 
