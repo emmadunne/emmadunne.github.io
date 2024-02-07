@@ -6,6 +6,10 @@ subtitle: Current and past research projects
 
 <br/>
 
+![Leshyk](/assets/img/Leshyk.png){: .center-block :}
+Art: Victor Leshyk
+
+
 ## Environmental drivers of vertebrate macroevolution
 
 My primary research focuses on how environmental and climatic changes have impacted patterns of vertebrate evolution, diversity, and biogeography. For this, I use a diverse set of analytical tools from palaeontology, phylogenetics, and ecology, which allow me to ask questions at big scales, in both time and space, and take advantage of the increasing availability of ‘Big Data’ repositories in palaeontology. Within this theme, some of my current projects include:

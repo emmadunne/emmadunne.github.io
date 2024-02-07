@@ -4,8 +4,8 @@ title: Publications
 
 ---
 
-![RajaDunneetalNatEcolEvol2021](/assets/img/graphic_NEE_2021.png){: .center-block :}
 
+![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
 
 <br/>
 
@@ -116,7 +116,6 @@ Explainer: [The Conversation](https://theconversation.com/rainforest-collapse-in
 Selected media coverage: [Mail online](https://www.dailymail.co.uk/sciencetech/article-5364737/Climate-change-307-million-years-ago-determined-future.html),  [Seeker](https://www.seeker.com/earth-conservation/prehistoric-rainforest-collapse-dramatically-changed-the-course-of-evolution). Also featured in [PBS Eons: When the Rainforests Collapsed](https://www.youtube.com/watch?v=sFHTA8dKceI)
 
 
-![DunneetalPalaeontology2020](/assets/img/graphic_Palaeo_2020.png){: .center-block :}
 
 
 <br/>
