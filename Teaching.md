@@ -8,7 +8,7 @@ I currently teach courses on both the [International Masters in Paleobiology](ht
 
 ### Courses
 
-#### MSc Paleobiology (in English)
+#### MSc Paleobiology
 
 - Vertebrate Paleobiology (lead)
 - Ethics and Law in Geoscience Research (lead)
@@ -20,7 +20,7 @@ I currently teach courses on both the [International Masters in Paleobiology](ht
 
 #### BSc Geowissenschaften (in German)
 
-- Paläobiodiversität (Semester 3, lead)
+- Paläobiodiversität [Paleobiodiversity] (Semester 3, lead)
 
 
 
