@@ -19,6 +19,11 @@ My primary research focuses on how environmental and climatic changes have impac
 
 <br/>
 
+
+![RajaDunneetalNatEcolEvol2021](/assets/img/graphic_NEE_2021.png){: .center-block :}
+
+
+
 ## Pal(a)eoscientometrics
 
 Together with Nussaïbah Raja,  co-founded and now co-lead the Pal(a)eoscientometrics Research Collective, a transdisciplinary international group of academics and allied workers that conducts quantitative research and delivers training on the impact of colonialism, (un)ethical practices, and legal issues on palaeontological research and in the geosciences more broadly. This research draws on our expertise in analytical techniques in palaeobiology and incorporates approaches from law and the social sciences (e.g. ethics, gender studies, economics and political science). 
