@@ -26,5 +26,5 @@ I currently teach courses on both the [International Masters in Paleobiology](ht
 
 #### Field courses
 
-- North Italy (1 week, BSc semester 5 & MSc)
-- Poland (Holy Cross mountains, 2 weeks, MSc)
+- Northern Italy - paleocology and reef ecosystems (1 week, BSc semester 5 & MSc)
+- Poland - stratigraphic paleobiology (2 weeks, MSc)
