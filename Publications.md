@@ -11,10 +11,11 @@ title: Publications
 
 ### Preprints
 
+Paiva AL, Godoy PL, Dunne EM, Farnsworth A, Valdes PJ, Lunt DJ, Klein W, Langer, MC, & Hsiou AS. The Role of Climate on the Emergence of Giant Caimaninae from the Miocene Western Amazonian Region. Preprint available at SSRN. DOI: [10.2139/ssrn.4873418](https://dx.doi.org/10.2139/ssrn.4873418)
+
+
 Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions reveal constraints on tetrapod community diversity. *EcoEvoRxiv* DOI: [10.32942/X2ZS3C](https://ecoevorxiv.org/repository/view/5827/)
 
-Arenas-Castro H, Berdejo-Espinola V, Chowdhury S, Rodríguez-Contreras A, James A, Raja NB, **Dunne EM**, Bertolino S, Emidio NB, Derez CM, Drobniak SM, Fulton GR, Henao-Diaz LF, Kaur A, Kim CJS, Lagisz M, Medina I, Mikula P, Narayan VP, O'Bryan CJ, Ying Oh RR, Ovsyanikova E, Pérez-Hämmerle KV, Pottier P, Powers JS, Rodriguez-Acevedo AJ, Rozak AH, Sena PHA, Sockhill NJ, Tedesco AM, Tiapa-Blanco F, Tsai JS, Villarreal-Rosas J, Wadgymar SM, Yamamichi M, & Amano T. Academic publishing requires linguistically inclusive policies. *EcoEvoRxiv* DOI: [10.32942/X2NS3K](https://ecoevorxiv.org/repository/view/5475/). 
-Coverage by [Nature News](https://www.nature.com/articles/d41586-023-02529-1)
 
 
 <br/>
@@ -24,7 +25,14 @@ Coverage by [Nature News](https://www.nature.com/articles/d41586-023-02529-1)
 
 **2024**
 
-Schnetz L, **Dunne EM**, Feichtinger I, Butler RJ, Coates MI, Sansom IJ. The rise and diversification of Palaeozoic chondrichthyans is led by holocephalans. *Paleobiology* (in press)
+Moreno R, **Dunne EM**, Mujal E, Farnsworth A, Valdes PJ, & Schoch RR. (2024) Impact of environmental barriers on temnospondyl biogeography and dispersal during the Middle–Late Triassic. *Palaeontology* DOI: [10.1111/pala.12724](http://doi.org/10.1111/pala.12724)
+
+
+Arenas-Castro H, Berdejo-Espinola V, Chowdhury S, Rodríguez-Contreras A, James A, Raja NB, **Dunne EM**, Bertolino S, Emidio NB, Derez CM, Drobniak SM, Fulton GR, Henao-Diaz LF, Kaur A, Kim CJS, Lagisz M, Medina I, Mikula P, Narayan VP, O'Bryan CJ, Ying Oh RR, Ovsyanikova E, Pérez-Hämmerle KV, Pottier P, Powers JS, Rodriguez-Acevedo AJ, Rozak AH, Sena PHA, Sockhill NJ, Tedesco AM, Tiapa-Blanco F, Tsai JS, Villarreal-Rosas J, Wadgymar SM, Yamamichi M, & Amano T. (2024) Academic publishing requires linguistically inclusive policies. *Royl. Soc. Proc. B.* DOI: [10.1098/rspb.2023.2840](https://doi.org/10.1098/rspb.2023.2840) 
+Coverage by [Nature News](https://www.nature.com/articles/d41586-023-02529-1)
+
+
+Schnetz L, **Dunne EM**, Feichtinger I, Butler RJ, Coates MI, Sansom IJ. (2024) The rise and diversification of Palaeozoic chondrichthyans is led by holocephalans. *Paleobiology* DOI: [10.1017/pab.2024.1](https://doi.org/10.1017/pab.2024.1)
 
 
 Lautenschlager S, Aston RF, Baron JL, Boyd JR, Bridger HWL, Carmona VET, Ducrey T, Eccles O, Gall M, Jones SA, Laker-McHugh H, Lawrenson DJ, Mascarenhas KJ, McSchnutz E, Quinn JD, Robson TE, Stöhr PW, Strahl EJ, Tokeley RR, Weston F, Wallace KJ, Whitehouse T, Bird CM, & **Dunne EM** (2024) Evolution of orbit size and estimated eye size and their implications for visual capabilities in dinosaurs and other archosaurs. *J. Vert. Paleo.* DOI: [10.1080/02724634.2023.2295518](https://doi.org/10.1080/02724634.2023.2295518)
