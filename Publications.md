@@ -25,6 +25,9 @@ Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions revea
 
 **2024**
 
+**Dunne EM**, Chattopadhyay D, Dean CD, Dillon EM, Dowding EM, Godoy PL, Smith JA, & Raja NB. Data equity in paleobiology: Progress, challenges, and future outlook. (In press at *Paleobiology*)
+
+
 Moreno R, **Dunne EM**, Mujal E, Farnsworth A, Valdes PJ, & Schoch RR. (2024) Impact of environmental barriers on temnospondyl biogeography and dispersal during the Middle–Late Triassic. *Palaeontology* DOI: [10.1111/pala.12724](http://doi.org/10.1111/pala.12724)
 
 
