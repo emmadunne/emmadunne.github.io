@@ -47,14 +47,3 @@ title: Research Team
 **Max Stammberger** (BSc thesis project, FAU, 2023) - Late Triassic the synapsid fossil record
 
 **Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity
-
-**Bethany Moss** (BSc thesis project, Birmingham, 2022) - Squamate climate niche evolution
-
-**Dominic Best** (BSc thesis project, Birmingham, 2022) - Pseudosuchian climate niche evolution
-
-**Lewis Haller** (BSc thesis project, Birmingham, 2022) dinosaur footprints of the British Isles
-
-**Lewis Haller** (Industry placement, Lapworth Museum archives, Birmingham, 2022)
-
-**Shane Webb** (PalAss Undergraduate Bursary project, Birmingham, 2018) - Early tetrapod ichnodiversity
-
