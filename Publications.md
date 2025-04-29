@@ -11,8 +11,6 @@ title: Publications
 
 ### Preprints
 
-Paiva AL, Godoy PL, Dunne EM, Farnsworth A, Valdes PJ, Lunt DJ, Klein W, Langer, MC, & Hsiou AS. The Role of Climate on the Emergence of Giant Caimaninae from the Miocene Western Amazonian Region. Preprint available at SSRN. DOI: [10.2139/ssrn.4873418](https://dx.doi.org/10.2139/ssrn.4873418)
-
 
 Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions reveal constraints on tetrapod community diversity. *EcoEvoRxiv* DOI: [10.32942/X2ZS3C](https://ecoevorxiv.org/repository/view/5827/)
 
@@ -25,10 +23,13 @@ Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions revea
 
 **2025**
 
-**Dunne EM**, Chattopadhyay D, Dean CD, Dillon EM, Dowding EM, Godoy PL, Smith JA, & Raja NB. Data equity in paleobiology: Progress, challenges, and future outlook. *Paleobiology* DOI: [10.1017/pab.2024.61](https://doi.org/10.1017/pab.2024.61)
+**Dunne EM**, Chattopadhyay D, Dean CD, Dillon EM, Dowding EM, Godoy PL, Smith JA, & Raja NB. Data equity in paleobiology: Progress, challenges, and future outlook. *Paleobiology* (invited contribution to 50th anniversary edition) DOI: [10.1017/pab.2024.61](https://doi.org/10.1017/pab.2024.61)
 
 
 **2024**
+
+Paiva AL, Godoy PL, **Dunne EM**, Farnsworth A, Valdes PJ, Lunt DJ, Klein W, Langer, MC, & Hsiou AS. (2024) The Role of Climate on the Emergence of Giant Caimaninae from the Miocene Western Amazonian Region. Palaeogeography, Palaeoclimatology, Palaeoecology DOI: [10.1016/j.palaeo.2024.112582](https://doi.org/10.1016/j.palaeo.2024.112582)
+
 
 Moreno R, **Dunne EM**, Mujal E, Farnsworth A, Valdes PJ, & Schoch RR. (2024) Impact of environmental barriers on temnospondyl biogeography and dispersal during the Middle–Late Triassic. *Palaeontology* DOI: [10.1111/pala.12724](http://doi.org/10.1111/pala.12724)
 
