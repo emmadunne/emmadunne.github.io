@@ -82,5 +82,5 @@ My research on early tetrapod diversity was featured in a PBS Eons episode: [Whe
 
 I was an on-screen expert for Episode 4 (Inferno) of the *Ancient Earth* docuseries, produced by BBC in collaboration with PBS. The series can be viewed on [Nova](https://www.pbs.org/wgbh/nova/series/ancient-earth/episodes/).
 
-Currently, I am a consultant for a docuseries produced by BBC and LoudMinds, which is due to be released in late 2024.
+Currently, I am a consultant for a docuseries produced by BBC and LoudMinds, which is due to be released in late 2025.
 

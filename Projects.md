@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-subtitle: Current and past research projects
 ---
 
 <br/>
@@ -14,8 +13,8 @@ Art: Victor Leshyk
 
 My primary research focuses on how environmental and climatic changes have impacted patterns of vertebrate evolution, diversity, and biogeography. For this, I use a diverse set of analytical tools from palaeontology, phylogenetics, and ecology, which allow me to ask questions at big scales, in both time and space, and take advantage of the increasing availability of ‘Big Data’ repositories in palaeontology. Within this theme, some of my current projects include:
 
-* The impact of hyperthermal events on squamate biodiversity
-* How climate change shaped early dinosaur evolution
+* The impact of hyperthermal events on ectotherm biodiversity
+* How climate change shaped dinosaur evolution
 * The evolution of herbivory in dinosaurs
 * Climatic drivers of gigantism in sauropod dinosaurs
 * Environmental change and early tetrapod evolution
