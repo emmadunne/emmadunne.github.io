@@ -18,7 +18,7 @@ title: Research Team
 **Victoria Thiel** (MSc thesis project, FAU, 2025) - Structure of the bird fossil record
 
 
-**Jordan Rodgers** (MSc thesis project, FAU, 2025) -  Ecomorphology of Paratypothorax (co-supervised by Stephan Spiekman, SNMS, Stuttgart)
+**Jordan Rodgers** (MSc thesis project, FAU, 2025) -  Ecomorphology of *Paratypothorax* (co-supervised by Stephan Spiekman, SNMS Stuttgart, and Stephan Lautenschlager, University of Birmingham)
 
 
 **Max Stammberger** (MSc thesis project, FAU, 2025) - Tetanuran dinosaur ecospace occupancy
@@ -61,5 +61,5 @@ title: Research Team
 **Max Stammberger** (BSc thesis project, FAU, 2023) - Late Triassic the synapsid fossil record
 
 
-**Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity
+**Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity (co-supervised by Thomas Clements, FAU)
 
