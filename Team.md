@@ -6,7 +6,7 @@ title: Research Team
 ### Team leader
 
 
-**Emma Dunne** (Akademische Rätin, FAU Erlangen Nürnberg)
+**Emma Dunne** (currently on leave until November 2025)
 
 
 
