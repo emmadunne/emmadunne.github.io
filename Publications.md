@@ -14,6 +14,8 @@ title: Publications
 
 Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions reveal constraints on tetrapod community diversity. *EcoEvoRxiv* DOI: [10.32942/X2ZS3C](https://ecoevorxiv.org/repository/view/5827/)
 
+Dowding EM, Dunne EM, Collins, KS, Cryer K, De Baets K, Dimitrijević D, Edie SM, Finnegan S, Kiessling, W, Lintulaakso K, Liow LH, Little H, Na, Lin, Peters SE, Renaudie J, Saupe EE, Seuss B, Sessa JA, Smith JA, Uhen MD, Williams JW, Kocsis ÁT. Fossils for Future: the billion-dollar case for palaeontology’s digital infrastructure. *EcoEvoRxiv* DOI: [10.32942/X2DS89](https://ecoevorxiv.org/repository/view/10176/)
+
 
 
 <br/>
