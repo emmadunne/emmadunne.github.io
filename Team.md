@@ -6,7 +6,9 @@ title: Research Team
 ### Team leader
 
 
-**Emma Dunne** (currently on leave until November 2025)
+**Emma Dunne**
+Assistant Professor in Palaeontology - Trinity College Dublin, Ireland
+Visiting Research Fellow - University of Reading, UK
 
 
 
@@ -16,9 +18,6 @@ title: Research Team
 
 
 **Victoria Thiel** (MSc thesis project, FAU, 2025) - Structure of the bird fossil record
-
-
-**Jordan Rodgers** (MSc thesis project, FAU, 2025) -  Ecomorphology of *Paratypothorax* (co-supervised by Stephan Spiekman, SNMS Stuttgart, and Stephan Lautenschlager, University of Birmingham)
 
 
 **Max Stammberger** (MSc thesis project, FAU, 2025) - Tetanuran dinosaur ecospace occupancy
@@ -36,6 +35,9 @@ title: Research Team
 
 
 ### Group alumni
+
+**Jordan Rodgers** (MSc thesis project, FAU, 2025) -  Ecomorphology of *Paratypothorax* (co-supervised by Stephan Spiekman, SNMS Stuttgart, and Stephan Lautenschlager, University of Birmingham)
+
 
 **Carolin Grether** (MSc thesis project, FAU, 2024-2025) - Pterosaur evolution and climate
 
@@ -61,5 +63,4 @@ title: Research Team
 **Max Stammberger** (BSc thesis project, FAU, 2023) - Late Triassic the synapsid fossil record
 
 
-**Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity (co-supervised by Thomas Clements, FAU)
-
+**Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity (co-supervised by Thomas Clements, University of Reading)
