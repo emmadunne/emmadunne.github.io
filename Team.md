@@ -7,7 +7,6 @@ title: Research Team
 
 
 **Emma Dunne**
-
 Assistant Professor in Palaeontology - Trinity College Dublin, Ireland
 Visiting Research Fellow - University of Reading, UK
 
