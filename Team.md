@@ -7,6 +7,7 @@ title: Research Team
 
 
 **Emma Dunne**
+
 Assistant Professor in Palaeontology - Trinity College Dublin, Ireland
 Visiting Research Fellow - University of Reading, UK
 
@@ -14,16 +15,16 @@ Visiting Research Fellow - University of Reading, UK
 
 ### Masters students
 
-**Meghan Gallaspy** (MSc thesis project, FAU, 2025) - Cetacean latitudinal diversity
+**Meghan Gallaspy** (MSc thesis project, FAU, 2025–2026) - Cetacean latitudinal diversity
 
 
-**Victoria Thiel** (MSc thesis project, FAU, 2025) - Structure of the bird fossil record
+**Victoria Thiel** (MSc thesis project, FAU, 2025–2026) - Structure of the bird fossil record
 
 
-**Max Stammberger** (MSc thesis project, FAU, 2025) - Tetanuran dinosaur ecospace occupancy
+**Max Stammberger** (MSc thesis project, FAU, 2025–2026) - Tetanuran dinosaur ecospace occupancy
 
 
-**Matias Zenklussen** (MSc thesis project, FAU, 2025) - Morphological disparity in European cave bears
+**Matias Zenklussen** (MSc thesis project, FAU, 2025–2026) - Morphological disparity in European cave bears
 
 
 
