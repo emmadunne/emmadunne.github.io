@@ -14,16 +14,21 @@ title: Publications
 
 Brocklehurst N, Allen BJ, & **Dunne EM**. Relative abundance distributions reveal constraints on tetrapod community diversity. *EcoEvoRxiv* DOI: [10.32942/X2ZS3C](https://ecoevorxiv.org/repository/view/5827/)
 
-Dowding EM, Dunne EM, Collins, KS, Cryer K, De Baets K, Dimitrijević D, Edie SM, Finnegan S, Kiessling, W, Lintulaakso K, Liow LH, Little H, Na, Lin, Peters SE, Renaudie J, Saupe EE, Seuss B, Sessa JA, Smith JA, Uhen MD, Williams JW, Kocsis ÁT. Fossils for Future: the billion-dollar case for palaeontology’s digital infrastructure. *EcoEvoRxiv* DOI: [10.32942/X2DS89](https://ecoevorxiv.org/repository/view/10176/)
-
 
 
 <br/>
 
 ### Peer-reviewed publications
 
+**2026**
+
+Dowding EM, **Dunne EM**, Collins, KS, Cryer K, De Baets K, Dimitrijević D, Edie SM, Finnegan S, Kiessling, W, Lintulaakso K, Liow LH, Little H, Na, Lin, Peters SE, Renaudie J, Saupe EE, Seuss B, Sessa JA, Smith JA, Uhen MD, Williams JW, Kocsis ÁT. (2026) Fossils for Future: the billion-dollar case for palaeontology’s digital infrastructure. *Nature Ecology and Evolution* DOI: [10.1038/s41559-026-02985-8](https://doi.org/10.1038/s41559-026-02985-8)
+
+
 
 **2025**
+
+Foffa D, **Dunne EM**, Chiarenza, AA,  Wynd BM, Farnsworth A, Lunt DJ, Valdes PJ, Nesbitt SJ, Kligman BT, Marsh AD, Parker WG, Butler RJ, Fraser NC, Brusatte SL & Barrett PM (2025) Climate drivers and palaeobiogeography of lagerpetids and early pterosaurs. *Nature Ecology and Evolution* DOI: [10.1038/s41559-025-02767-8](https://doi.org/10.1038/s41559-025-02767-8)
 
 **Dunne EM**, Chattopadhyay D, Dean CD, Dillon EM, Dowding EM, Godoy PL, Smith JA, & Raja NB. Data equity in paleobiology: Progress, challenges, and future outlook. *Paleobiology* (invited contribution to 50th anniversary edition) DOI: [10.1017/pab.2024.61](https://doi.org/10.1017/pab.2024.61)
 
