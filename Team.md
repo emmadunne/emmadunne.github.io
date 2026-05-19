@@ -12,55 +12,55 @@ Visiting Research Fellow - University of Reading, UK
 
 
 
-### Masters students
-
-**Meghan Gallaspy** (MSc thesis project, FAU, 2025–2026) - Cetacean latitudinal diversity
-
-
-**Victoria Thiel** (MSc thesis project, FAU, 2025–2026) - Structure of the bird fossil record
-
-
-**Max Stammberger** (MSc thesis project, FAU, 2025–2026) - Tetanuran dinosaur ecospace occupancy
-
-
-**Matias Zenklussen** (MSc thesis project, FAU, 2025–2026) - Morphological disparity in European cave bears
-
-
-
-
 ### Undergraduate students
 
-**Sebastian Nöth** (BSc thesis project, FAU, 2025) - Penguin fossil record completeness
+**Daniel Reynolds** (BA capstone project, TCD, 2026/27)
 
 
 
 ### Group alumni
 
+**Meghan Gallaspy** (MSc thesis project, FAU, 2025–2026) - "Where there’s a will there’s a whale: Cetacean distributions and environmental drivers through time and space"
+
+
+**Victoria Thiel** (MSc thesis project, FAU, 2025–2026) - "The Fault in Our Fossil Record: Using modern biodiversity to predict sampling biases" (co-supervised by Thomas Clements, University of Reading, and Juan Benito, University of Cambridge)
+
+
+**Max Stammberger** (MSc thesis project, FAU, 2025–2026) - "Quantifying *Spinosaurus* ecology using ecospace occupancy"
+
+
+**Matias Zenklussen** (MSc thesis project, FAU, 2025–2026) - "Analysis of bear evolution through Zoolithenhöhle cave bear
+cranial morphology and carnivoran mammal diversity"
+
+
+**Sebastian Nöth** (BSc thesis project, FAU, 2025) - Completeness of the penguin fossil record
+
+
 **Jordan Rodgers** (MSc thesis project, FAU, 2025) -  Ecomorphology of *Paratypothorax* (co-supervised by Stephan Spiekman, SNMS Stuttgart, and Stephan Lautenschlager, University of Birmingham)
 
 
-**Carolin Grether** (MSc thesis project, FAU, 2024-2025) - Pterosaur evolution and climate
+**Carolin Grether** (MSc thesis project, FAU, 2024-2025) - "Moving in the flight direction: Environmental drivers of pterosaur evolution"
 
 
-**Janelle Jalwar** (MSc thesis project, FAU, 2024) - Mosasaur palaeopathology
+**Janelle Jalwar** (MSc thesis project, FAU, 2024) - "Evidence of disease and injury in Late Cretaceous marine reptiles" (co-supervised by Stephan Spiekman and Erin Maxwell, SNMS Stuttgart)
 
 
-**Maibritt Härpfer** (BSc thesis project, FAU, 2024) - Squamate diversity across the PETM
+**Maibritt Härpfer** (BSc thesis project, FAU, 2024) - "Squamate diversity across the Paleocene-Eocene Thermal Maximum"
 
 
-**Eren Tasimov** (BSc thesis project, FAU, 2024) - Evolution of herbivory in theropod dinosaurs
+**Eren Tasimov** (BSc thesis project, FAU, 2024) - "Evolution of herbivory in theropod dinosaurs"
 
 
-**Katrin Eckhert** (BSc thesis project, FAU, 2024) - Size biases among vertebrates of the Jehol Biota
+**Katrin Eckhert** (BSc thesis project, FAU, 2024) - "Size biases among vertebrates of the Jehol Biota"
 
 
 **Lisa Schnetz** (Postdoctoral scholar, FAU, 2023) - Chondrichthyan macroevolution
 
 
-**Eren Tasimov** (PalAss Undergraduate Bursary project, FAU, 2023) - Early Cretaceous herbivorous theropod diversity
+**Eren Tasimov** (PalAss Undergraduate Bursary project, FAU, 2023) - "Veggiesaurus rex: Diversity of Early Cretaceous herbivorous theropods and the influence of climate"
 
 
-**Max Stammberger** (BSc thesis project, FAU, 2023) - Late Triassic the synapsid fossil record
+**Max Stammberger** (BSc thesis project, FAU, 2023) - "Completeness of the Late Triassic the synapsid fossil record"
 
 
-**Marius Müller** (BSc thesis project, FAU, 2023) - Mesozoic belemnoid diversity (co-supervised by Thomas Clements, University of Reading)
+**Marius Müller** (BSc thesis project, FAU, 2023) - "Mesozoic belemnoid diversity" (co-supervised by Thomas Clements, University of Reading, then FAU)
